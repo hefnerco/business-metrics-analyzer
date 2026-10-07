@@ -12,7 +12,7 @@
 - Git / GitHub (контроль версий)
 
 ## Инструкция по запуску
-1. Клонируйте репозиторий: `git clone https://github.com/ePchelka/business-metrics-analyzer`
+1. Клонируйте репозиторий: `git clone https://github.com/hefnerco/business-metrics-analyzer`
 2. Перейдите в папку проекта: `cd business-metrics-analyzer`
 3. Создайте виртуальное окружение: `python -m venv .venv`
 4. Активируйте его (для Windows): `.venv\Scripts\activate`
